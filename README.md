@@ -10,7 +10,7 @@ local animatedMesh = AnimatedMeshService.CreateAnimatedMesh(87610914005922) -- p
 ## Setup shapekeys:
 ```luau
 --Use the blender script to add shapekey data to clipboard
---I reccomend storing shapekey data in a string value instance
+--I recommend storing shapekey data in a string value instance
 animatedMesh:CreateShapeKeys(script.ShapeKeyData.Value)
 ```
 
