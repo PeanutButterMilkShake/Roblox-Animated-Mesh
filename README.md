@@ -1,6 +1,9 @@
 # Roblox-Animated-Mesh
 Animated mesh service to implement shape keys
 
+# Notes
+The current exporter script exports shapekeys as raw data with no compression, i will change this in the future.
+
 # How to use:
 ## Create animated mesh:
 ```luau
